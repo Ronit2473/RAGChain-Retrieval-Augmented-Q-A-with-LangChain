@@ -1,5 +1,5 @@
-# Simple_Gen_AI_App_Using_LangChain
-Simple Gen AI App Using LangChain
+# RAGChain: Retrieval-Augmented Q&A with LangChain
+RAGChain: Retrieval-Augmented Q&A with LangChain
 
 Overview
 
